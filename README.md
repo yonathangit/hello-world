@@ -1,2 +1,4 @@
-# hello-world
-My First Repository
+# Rediet Favourite Colors
+- Red
+- Green
+- Blue
